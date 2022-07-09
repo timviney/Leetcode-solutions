@@ -9,6 +9,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\12-IntegerToRoman\12-IntegerToRoman.csproj" />
     <ProjectReference Include="..\13-RomanToInteger\13-RomanToInteger.csproj" />
   </ItemGroup>
 

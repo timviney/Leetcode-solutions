@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Leetcode-solutions", "Leetc
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13-RomanToInteger", "13-RomanToInteger\13-RomanToInteger.csproj", "{8DC4A86F-2188-48F0-AA98-8EACF32DB0C7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12-IntegerToRoman", "12-IntegerToRoman\12-IntegerToRoman.csproj", "{76E6635A-3968-43A8-96BE-2A5CA9FA4539}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{8DC4A86F-2188-48F0-AA98-8EACF32DB0C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8DC4A86F-2188-48F0-AA98-8EACF32DB0C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8DC4A86F-2188-48F0-AA98-8EACF32DB0C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76E6635A-3968-43A8-96BE-2A5CA9FA4539}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76E6635A-3968-43A8-96BE-2A5CA9FA4539}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76E6635A-3968-43A8-96BE-2A5CA9FA4539}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76E6635A-3968-43A8-96BE-2A5CA9FA4539}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
