@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "383-RansomNote", "383-Ranso
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "412-FizzBuzz", "412-FizzBuzz\412-FizzBuzz.csproj", "{AB49D622-F6D6-4715-845A-D9850AAC55C2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1195-FizzBuzzMultithreaded", "1195-FizzBuzzMultithreaded\1195-FizzBuzzMultithreaded.csproj", "{24E74F5F-C3EA-44D8-B017-A3F15729DAFA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{AB49D622-F6D6-4715-845A-D9850AAC55C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AB49D622-F6D6-4715-845A-D9850AAC55C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AB49D622-F6D6-4715-845A-D9850AAC55C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24E74F5F-C3EA-44D8-B017-A3F15729DAFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24E74F5F-C3EA-44D8-B017-A3F15729DAFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24E74F5F-C3EA-44D8-B017-A3F15729DAFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24E74F5F-C3EA-44D8-B017-A3F15729DAFA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
