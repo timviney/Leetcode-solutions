@@ -39,6 +39,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "202-HappyNumber", "202-Happ
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "54-SpiralMatrix", "54-SpiralMatrix\54-SpiralMatrix.csproj", "{9EC7667B-C872-49DA-ADB7-F02C0413917A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "472-ConcatenatedWords", "472-ConcatenatedWords\472-ConcatenatedWords.csproj", "{01CFFB91-662C-46C6-A8F7-323AC4EFC188}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -117,6 +119,10 @@ Global
 		{9EC7667B-C872-49DA-ADB7-F02C0413917A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9EC7667B-C872-49DA-ADB7-F02C0413917A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9EC7667B-C872-49DA-ADB7-F02C0413917A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01CFFB91-662C-46C6-A8F7-323AC4EFC188}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01CFFB91-662C-46C6-A8F7-323AC4EFC188}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01CFFB91-662C-46C6-A8F7-323AC4EFC188}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01CFFB91-662C-46C6-A8F7-323AC4EFC188}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
