@@ -43,6 +43,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "472-ConcatenatedWords", "47
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3-LongestSubstringWithoutRepeatingChars", "3-LongestSubstringWithoutRepeatingChars\3-LongestSubstringWithoutRepeatingChars.csproj", "{D2172B70-82AA-4471-ACE8-6D7E5B9553BC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "97-InterleavingString", "97-InterleavingString\97-InterleavingString.csproj", "{DE7A5A85-1455-4116-B3F7-558F07D862FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "153-MinInRotatedSortedArray", "153-MinInRotatedSortedArray\153-MinInRotatedSortedArray.csproj", "{813D311D-4A91-4B61-8A07-10AF396FCB5C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -129,6 +133,14 @@ Global
 		{D2172B70-82AA-4471-ACE8-6D7E5B9553BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D2172B70-82AA-4471-ACE8-6D7E5B9553BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D2172B70-82AA-4471-ACE8-6D7E5B9553BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE7A5A85-1455-4116-B3F7-558F07D862FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE7A5A85-1455-4116-B3F7-558F07D862FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE7A5A85-1455-4116-B3F7-558F07D862FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE7A5A85-1455-4116-B3F7-558F07D862FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{813D311D-4A91-4B61-8A07-10AF396FCB5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{813D311D-4A91-4B61-8A07-10AF396FCB5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{813D311D-4A91-4B61-8A07-10AF396FCB5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{813D311D-4A91-4B61-8A07-10AF396FCB5C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
