@@ -6,4 +6,4 @@ using _234_PalindromeLinkedList;
 using _39_CombinationSum;
 
 var s = new Solution39();
-Console.WriteLine(s.CombinationSum(new int[] { 2, 3, 6, 7 }, 7));
+Console.WriteLine(string.Join("||", (s.CombinationSum(new int[] { 2, 3, 6, 7 }, 7)).Select(s => string.Join(',',s))));
