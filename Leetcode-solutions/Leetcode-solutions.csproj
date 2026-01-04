@@ -12,6 +12,7 @@
     <ProjectReference Include="..\12-IntegerToRoman\12-IntegerToRoman.csproj" />
     <ProjectReference Include="..\13-RomanToInteger\13-RomanToInteger.csproj" />
     <ProjectReference Include="..\234-PalindromeLinkedList\234-PalindromeLinkedList.csproj" />
+    <ProjectReference Include="..\39-CombinationSum\39-CombinationSum.csproj" />
   </ItemGroup>
 
 </Project>
